@@ -1135,7 +1135,7 @@ div.dialog_container div.dialog_window div.dialog_message {
     float: left;
     padding-left: 3px;
     margin-left: 3px;
-    width: 305px;
+    width: 385px;
     overflow: hidden;
 }
 div.dialog_container div.dialog_window a {
@@ -1164,12 +1164,12 @@ div#upload_container div.dialog_window div.dialog_message label {
     display: block;
 }
 div#upload_container div.dialog_window div.dialog_message input {
-    width: 249px;
+    width: 290px;
     margin: 3px 0 0 0;
     display: block;
 }
 div#upload_container div.dialog_window div.dialog_message input[type=text] {
-    width: 245px;
+    width: 290px;
     padding: 2px;
 }
 div#upload_container div.dialog_window div.dialog_message input[type=checkbox] {
