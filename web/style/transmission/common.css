@@ -1134,8 +1134,8 @@ div.dialog_container div.dialog_window h2.dialog_heading {
 div.dialog_container div.dialog_window div.dialog_message {
     float: left;
     padding-left: 3px;
-    margin-left: 3px;
-    width: 385px;
+    margin-left: 23px;
+    width: 425px;
     overflow: hidden;
 }
 div.dialog_container div.dialog_window a {
